@@ -1,5 +1,6 @@
 # FileManagementSystem
-JSD Final Project
+**JSD Final Project**
+
 This software system will be a File Management System for project managers, quality assurance team and any project members to manage their documents. This system 
 will allow users control different versions of documents in different categories or projects. It also could set permissions on documents. 
 The file categories, account and project integration will be out of scope in this version.
